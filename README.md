@@ -1,4 +1,4 @@
-# Merkle Tree for NFT Whitelist (JavaScript)
+# Merkle Tree For Whitelist Users using node js and solidity (JavaScript)
 
 <hr />
 
