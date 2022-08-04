@@ -30,3 +30,5 @@ to see if an address is verified in the Merkle Tree or Not.
     ]
 
 ```
+My Medium blog on merkle tree
+https://medium.com/@avinashbuddana4/merkel-tree-7c1e00e136b0
